@@ -65,9 +65,9 @@ Azul: https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu and s
 
 ## Credits
 
-Credit to Sean Proctor (github.com/sproctor) for the base of the Compose Desktop auth0 implementation: https://levelup.gitconnected.com/oauth-in-compose-for-desktop-with-auth0-9990075606a1https://levelup.gitconnected.com/oauth-in-compose-for-desktop-with-auth0-9990075606a1
+Credit to [Sean Proctor](https://github.com/sproctor) for the base of the Compose Desktop auth0 implementation: https://levelup.gitconnected.com/oauth-in-compose-for-desktop-with-auth0-9990075606a1
 
-Credit to Mouaad Aallam (https://github.com/aallam) for his implementation of an OpenAI API client for Kotlin: https://github.com/aallam/openai-kotlin
+Credit to [Mouaad Aallam](https://github.com/aallam) for his implementation of an OpenAI API client for Kotlin: https://github.com/aallam/openai-kotlin
 
 Credit to StackOverFlow user Gabriele Mariotti for the following implementation example of a dropdown menu: https://stackoverflow.com/questions/67111020/exposed-drop-down-menu-for-jetpack-compose
 
